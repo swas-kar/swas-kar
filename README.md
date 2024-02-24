@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Swastika Kar</h1>
 <h3 align="center">A passionate developer from India .</h3>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Google Cloud and Generative AI**
 
--- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her
 
 - 📫 How to reach me **swaskare@gmail.com**
 
