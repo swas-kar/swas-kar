@@ -10,7 +10,9 @@
 - 😄 Pronouns: She/Her
 
 - 📫 How to reach me **swaskare@gmail.com**
-
+  
+- 📄 Know about my experiences : [https://drive.google.com/file/d/1fXHrHBpOhTclSnDLhMYjPRZZZmTpcK0e/view?usp=sharing](https://drive.google.com/file/d/1fXHrHBpOhTclSnDLhMYjPRZZZmTpcK0e/view?usp=sharing)
+  
 - ⚡ Fun fact **I write poetry :)**
 
 <h3 align="left">Connect with me:</h3>
