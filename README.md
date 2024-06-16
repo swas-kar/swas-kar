@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **swaskare@gmail.com**
   
-- 📄 Know about my experiences/Resume : [https://drive.google.com/file/d/1Vb6-JoUxO9QxVfcKXC1fB_bnk6kx5Jw-/view?usp=sharing](https://drive.google.com/file/d/1Vb6-JoUxO9QxVfcKXC1fB_bnk6kx5Jw-/view?usp=sharing)
+- 📄 Know about my experiences/Resume : [https://drive.google.com/file/d/15U5kIYkwzzy-mJHFKFi7jKiU2qTJrr8U/view?usp=sharing](https://drive.google.com/file/d/15U5kIYkwzzy-mJHFKFi7jKiU2qTJrr8U/view?usp=sharing)
   
-- ⚡ Fun fact **I write poetry :)**
+- ⚡ Fun fact **I write poetry :)** [https://darkmusepoetrybyswas-4ppm2ysttq-uc.a.run.app/](https://darkmusepoetrybyswas-4ppm2ysttq-uc.a.run.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
