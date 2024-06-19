@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Swastika Kar</h1>
 <h3 align="center">A passionate developer from India .</h3>
 
-- 🔭 I’m currently working on [SoulSync](https://github.com/swas-kar/SoulSync)
+- 🔭 I’m currently working on [Neural Style Transfer](https://github.com/swas-kar/Neural_Style_Transfer)
 
 - 🌱 I’m currently learning **Google Cloud and Generative AI**
 
