@@ -1,16 +1,13 @@
-
 <h1 align="center">Hi 👋, I'm Swastika Kar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swas-kar&label=Profile%20views&color=0e75b6&style=flat" alt="swas-kar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swas-kar" alt="swas-kar" /></a> </p>
-
 - 🔭 I’m currently working on [Neural Style Transfer](https://github.com/swas-kar/Neural_Style_Transfer)
 
 - 🌱 I’m currently learning **Google Cloud and MERN stack**
- 
-- 😄 Pronouns: She/Her
+
+- 💬 Pronouns **She / Her**
 
 - 📫 How to reach me **swastika382003ne@gmail.com**
 
