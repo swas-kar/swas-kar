@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **swastika382003ne@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/forms/d/e/1FAIpQLScjt7Lsvz-FWVHGijNTP5sCnEGa1z8zErEljn_dHIAwRImk1g/viewform](https://docs.google.com/forms/d/e/1FAIpQLScjt7Lsvz-FWVHGijNTP5sCnEGa1z8zErEljn_dHIAwRImk1g/viewform)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1_TRvtv3uSYvMPgpDDt1881vz0ixvx21h/view?usp=sharing](https://drive.google.com/file/d/1_TRvtv3uSYvMPgpDDt1881vz0ixvx21h/view?usp=sharing)
 
 - ⚡ Fun fact : I write Poetry :p **https://darkmusepoetrybyswas-4ppm2ysttq-uc.a.run.app/**
 
